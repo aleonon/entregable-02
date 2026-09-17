@@ -5,7 +5,7 @@ API REST temática para el Entregable 2: API de Criaturas marinas
 Criaturas que habitan en los diferentes oceanos del mundo. Permite registrar sus habilidades, nivel(basado en qué tan común es) y carácter (si es amistoso o no).
 
 Ailyn León :p
-Repositorio: Por definir
+Repositorio: https://github.com/aleonon/entregable-02 
 
 ## Alcance
 
